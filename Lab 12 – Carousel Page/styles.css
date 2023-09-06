@@ -1,0 +1,19 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 70vh;
+  background-image: url(https://4.bp.blogspot.com/-pTabliDO4MA/WhgEqA1m4rI/AAAAAAAABTA/fa1X7hQAlnU9-y-yyc694omvf85nfbuNQCLcBGAs/s1600/hinh-nen-phong-canh-dep%2B%252811%2529.jpg);
+}
+body {
+  min-height: 100vh;
+}
+.carousel-item {
+  align-items: center;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 300px 30px 30px 30px;
+}
